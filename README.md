@@ -1,5 +1,5 @@
 # Learning to simulate complex scenes
-This repository contains the code, engine and the generated data for SceneX, which will be published soon.  
+This repository contains the code, engine and the generated data for SceneX, which will be published soon.<br>
 # Paper
 [Learning to simulate complex scenes](https://arxiv.org/abs/2006.14611?context=cs.CV). 
   
