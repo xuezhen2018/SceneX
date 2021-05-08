@@ -7,9 +7,10 @@ If you find this code useful for your research, please cite our [paper](https://
 
 ```
 @article{xue2020learning,
-  title={Learning to simulate complex scenes},
+  title={Learning to simulate complex scenes for street scene segmentation},
   author={Zhenfeng Xue, Weijie Mao, Liang Zheng},
-  booktitle={Arxiv},
-  year={2020}
+  booktitle={IEEE Transactions on Multimedia},
+  year={2021},
+  doi={10.1109/TMM.2021.3062497}
 }
 ````
