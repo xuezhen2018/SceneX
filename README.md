@@ -1,7 +1,15 @@
-# SceneX
+# Learning to simulate complex scenes
 This repository contains the code, engine and the generated data for our paper entitled [Learning to simulate complex scenes for street scene segmentation](https://ieeexplore.ieee.org/document/9366432) published in IEEE Transactions on Multimedia, or the arxiv pre-print version [Learning to simulate complex scenes](https://arxiv.org/abs/2006.14611v1).<br>
 
+# SceneX Engine
+SceneX engine contains 106 buildings, 200 pedestrians, 195 cars, 28 buses and 39 trucks, etc.<br>
 
+# News
+(5/2021) We have released the SceneX engine and its build source code that can be used in linux os.
+
+# Requirements
+OS: Windows 10 or Ubuntu 14.04+
+Python3.6+
 
 If you find this code useful for your research, please kindly cite our paper.<br>
 
