@@ -3,7 +3,7 @@ This repository contains the code, engine and the generated data for our paper e
 
 
 
-If you find this code useful for your research, please cite our paper.<br>
+If you find this code useful for your research, please kindly cite our paper.<br>
 
 ```
 @article{xue2020learning,
