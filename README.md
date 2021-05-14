@@ -5,7 +5,7 @@ This repository contains the code, engine and the generated data for our paper e
 SceneX engine contains 106 buildings, 200 pedestrians, 195 cars, 28 buses and 39 trucks, etc.<br>
 
 # News
-(5/2021) We have released the SceneX engine and its build source code that can be used in linux os.<br>
+(5/2021) We will release the SceneX engine and its build source code that can be used in linux os.<br>
 
 # Requirements
 OS: Windows 10 or Ubuntu 14.04+ <br>
