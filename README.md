@@ -8,7 +8,7 @@ You should download the [scenex_trainer_city.zip](https://pan.baidu.com/s/1xWvE3
 You should download the [scenex_generator_city.zip](https://pan.baidu.com/s/1NaY8898ItAxS_3YOXRwAYQ)(pin: 0903, via BaiduDisk) and unpack it into directory "SceneX/engine/".<br>
 
 # News
-(5/2021) We will release the SceneX engine and its build source code that can be used in linux/windows os.<br>
+(5/2021) We will release the SceneX engine and its build source code that can be used in Linux/Windows os.<br>
 
 # Requirements
 OS: Windows 10 or Ubuntu 14.04+ <br>
