@@ -3,6 +3,9 @@ This repository contains the code, engine and the generated data for our paper e
 
 # SceneX Engine
 SceneX engine contains 106 buildings, 200 pedestrians, 195 cars, 28 buses and 39 trucks, etc.<br>
+You should download the [Assets.zip](https://pan.baidu.com/s/1XBrKDDXbdV0yLcR2nlOwwA)(pin: 0903, via BaiduDisk) and unpack it into directory "SceneX/".<br>
+You should download the [scenex_trainer_city.zip](https://pan.baidu.com/s/1XBrKDDXbdV0yLcR2nlOwwA)(pin: 0903, via BaiduDisk) and unpack it into directory "SceneX/engine/".<br>
+You should download the [scenex_generator_city.zip](https://pan.baidu.com/s/1XBrKDDXbdV0yLcR2nlOwwA)(pin: 0903, via BaiduDisk) and unpack it into directory "SceneX/engine/".<br>
 
 # News
 (5/2021) We will release the SceneX engine and its build source code that can be used in linux os.<br>
