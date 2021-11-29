@@ -10,7 +10,7 @@ Other Python packages.
 
 # SceneX Engine
 SceneX engine contains 106 buildings, 200 pedestrians, 195 cars, 28 buses and 39 trucks, etc.<br>
-To run the code on Linux OS, please:
+To run the code on Linux OS, please:<br>
   [1] Download the [Assets.zip](https://pan.baidu.com/s/1L-oVRKvK8FOaJzUKtZJwfw)(pin: 0903, via BaiduDisk) and unpack it into directory "SceneX/".<br>
   [2] Download the [scenex_trainer_city.zip](https://pan.baidu.com/s/1xWvE3ZoRs9zydemj49rFXw)(pin: 0903, via BaiduDisk) and unpack it into directory "SceneX/engine/".<br>
   [3] Download the [scenex_generator_city.zip](https://pan.baidu.com/s/1NaY8898ItAxS_3YOXRwAYQ)(pin: 0903, via BaiduDisk) and unpack it into directory "SceneX/engine/".<br>
