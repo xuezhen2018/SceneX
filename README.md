@@ -15,9 +15,9 @@ To run the code on Linux OS, please:<br>
   [2] Download the [engine.zip](https://pan.baidu.com/s/1XCukK4S6FArDXHzcf-uErQ)(pin: 0903, via BaiduDisk) and unpack it into directory "SceneX/".<br>
 
 # Usage
-For attribute training:
-  
-
+For attribute training: <br>
+Edit file 'train_ssd2city_sdr.py' as follow:
+[1] NUM_INPUTS = 7 (Which means to optimize 7 attributes once)
 
 If you find this code useful for your research, please kindly cite our paper.<br>
 
