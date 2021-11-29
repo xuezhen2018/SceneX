@@ -5,7 +5,7 @@ The paper is entitled '[Learning to simulate complex scenes for street scene seg
 # Requirements
 Unity version: 2019.2.10f1<br>
 MLAgents version: 0.10.0<br>
-
+Other Python packages.
 
 # SceneX Engine
 SceneX engine contains 106 buildings, 200 pedestrians, 195 cars, 28 buses and 39 trucks, etc.<br>
