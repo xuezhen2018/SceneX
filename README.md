@@ -9,8 +9,8 @@ MLAgents version: 0.10.0<br>
 Other Python packages.
 
 # SceneX Engine
-SceneX engine contains 106 buildings, 200 pedestrians, 195 cars, 28 buses and 39 trucks, etc. Below is an example of the interface on Windows OS.<br>
-![image](https://github.com/xuezhen2018/SceneX/blob/master/png/interface.png)
+SceneX engine contains 106 buildings, 200 pedestrians, 195 cars, 28 buses and 39 trucks, etc.<br>
+
 
 You should download the [Assets.zip](https://pan.baidu.com/s/1L-oVRKvK8FOaJzUKtZJwfw)(pin: 0903, via BaiduDisk) and unpack it into directory "SceneX/".<br>
 You should download the [scenex_trainer_city.zip](https://pan.baidu.com/s/1xWvE3ZoRs9zydemj49rFXw)(pin: 0903, via BaiduDisk) and unpack it into directory "SceneX/engine/".<br>
