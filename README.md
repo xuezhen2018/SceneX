@@ -31,7 +31,14 @@ And run the script, then the final output may be like this: [0.8, 0.1, 0.0, 0.8,
 
 For attribute testing: <br>
 Edit file 'test_city.py' as follow:<br>
-
+[1] building_x_delta = 0.8 (line118)
+[2] fence_x_delta = 0.1 (line119)
+[3] tree_x_delta = 0.0 (line120)
+[4] motorcycle_x_delta = 0.8 (line121)
+[5] person_x_delta = 0.0 (line122)
+[6] hang_x_delta = 0.0 (line123)
+[7] car_x_delta = 0.9 (line124)
+and run the script. Then the final output may be 329.24, which means the mIoU is 18.1% for SceneX to Cityscapes cross validation.
 
 If you find this code useful for your research, please kindly cite our paper.<br>
 
