@@ -38,7 +38,7 @@ Edit file 'test_city.py' as follow:<br>
 [5] person_x_delta = 0.0 (line122)<br>
 [6] hang_x_delta = 0.0 (line123)<br>
 [7] car_x_delta = 0.9 (line124)<br>
-and run the script. Then the final output may be 329.24, which means the mIoU is 18.1% for SceneX to Cityscapes cross validation.<br>
+and run the script. Then the final output may be 329.24 , which means the mIoU is 18.1% for SceneX to Cityscapes cross validation.<br>
 
 The detailed attribute optimization order can be found in the paper.
 
