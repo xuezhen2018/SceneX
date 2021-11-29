@@ -16,8 +16,17 @@ To run the code on Linux OS, please:<br>
 
 # Usage
 For attribute training: <br>
-Edit file 'train_ssd2city_sdr.py' as follow:
-[1] NUM_INPUTS = 7 (Which means to optimize 7 attributes once)
+Edit file 'train_ssd2city_sdr.py' as follow:<br>
+[1] NUM_INPUTS = 7 (Which means to optimize 7 attributes once) [line39]
+[2] MAIN_LR = 1e-2 (Learning rate = 0.01) [line41]
+[3] MAX_FRAMES = 40 (Maximal iterations = 40) [line42]
+[4] building_x_delta = attribute_list[0] (line146)
+[5] fence_x_delta = attribute_list[1] (line147)
+[6] tree_x_delta = attribute_list[2] (line148)
+[7] motorcycle_x_delta = attribute_list[3] (line149)
+[8] person_x_delta = attribute_list[4] (line150)
+[9] hang_x_delta = attribute_list[5] (line151)
+[10] car_x_delta = attribute_list[6] (line152)
 
 If you find this code useful for your research, please kindly cite our paper.<br>
 
