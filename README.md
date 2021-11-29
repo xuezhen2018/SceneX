@@ -15,10 +15,6 @@ You should download the [scenex_trainer_city.zip](https://pan.baidu.com/s/1xWvE3
 You should download the [scenex_generator_city.zip](https://pan.baidu.com/s/1NaY8898ItAxS_3YOXRwAYQ)(pin: 0903, via BaiduDisk) and unpack it into directory "SceneX/engine/".<br>
 
 
-# Requirements
-OS: Windows 10 or Ubuntu 14.04+ <br>
-Python3.6+ <br>
-
 If you find this code useful for your research, please kindly cite our paper.<br>
 
 ```
