@@ -1,6 +1,6 @@
 # Learning to simulate complex scenes for street scene segmentation
 This repository contains the code, engine and the generated data for our paper published in IEEE Trans. on Multimedia.
-The paper is entitled '[Learning to simulate complex scenes for street scene segmentation](https://ieeexplore.ieee.org/document/9366432)', or you can find our arxiv pre-print version '[Learning to simulate complex scenes](https://arxiv.org/abs/2006.14611v1).'<br>
+The paper is entitled '[Learning to simulate complex scenes for street scene segmentation](https://ieeexplore.ieee.org/document/9366432)', or you can find the arxiv pre-print version '[Learning to simulate complex scenes](https://arxiv.org/abs/2006.14611v1).'<br>
 
 
 # SceneX Engine
