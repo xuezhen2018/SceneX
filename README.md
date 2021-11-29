@@ -42,6 +42,9 @@ and run the script. Then the final output may be 329.24, which means the mIoU is
 
 The detailed attribute optimization order can be found in the paper.
 
+# SceneX to Cityscapes Adapted Images
+Can be downloaded via the following link: [ssd2city](https://pan.baidu.com/s/1km9mC6RThTWb3QJTcKHg8Q)(pin: 0903, via BaiduDisk).
+
 If you find this code useful for your research, please kindly cite our paper.<br>
 
 ```
