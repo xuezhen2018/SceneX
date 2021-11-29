@@ -27,6 +27,8 @@ Edit file 'train_ssd2city_sdr.py' as follow:<br>
 [8] person_x_delta = attribute_list[4] (line150)<br>
 [9] hang_x_delta = attribute_list[5] (line151)<br>
 [10] car_x_delta = attribute_list[6] (line152)<br>
+And run the script, then the final output may be like this: [0.8, 0.1, 0.0, 0.8, 0.0, 0.0, 0.9]
+
 
 If you find this code useful for your research, please kindly cite our paper.<br>
 
