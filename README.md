@@ -14,6 +14,11 @@ To run the code on Linux OS, please:<br>
   [1] Download the [Assets.zip](https://pan.baidu.com/s/13kHsbz6MhzYwpFJood1QpQ)(pin: 0903, via BaiduDisk) and unpack it into directory "SceneX/".<br>
   [2] Download the [engine.zip](https://pan.baidu.com/s/1XCukK4S6FArDXHzcf-uErQ)(pin: 0903, via BaiduDisk) and unpack it into directory "SceneX/".<br>
 
+# Usage
+For attribute training:
+  
+
+
 If you find this code useful for your research, please kindly cite our paper.<br>
 
 ```
