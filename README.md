@@ -3,7 +3,8 @@ This repository contains the code, engine and the generated data for our paper p
 The paper is entitled '[Learning to simulate complex scenes for street scene segmentation](https://ieeexplore.ieee.org/document/9366432)', or you can find the arxiv pre-print version '[Learning to simulate complex scenes](https://arxiv.org/abs/2006.14611v1).'<br>
 
 # Requirements
-aa
+Unity version: 2019.2.10f1
+MLAgents version: 0.10.0
 
 
 # SceneX Engine
