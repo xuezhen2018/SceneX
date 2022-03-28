@@ -11,8 +11,8 @@ Other Python packages.
 # SceneX Engine
 SceneX engine contains 106 buildings, 200 pedestrians, 195 cars, 28 buses and 39 trucks, etc.<br>
 To run the code on Linux OS, please:<br>
-  [1] Download the [Assets.zip](https://pan.baidu.com/s/13kHsbz6MhzYwpFJood1QpQ)(pin: 0903, via BaiduDisk) and unpack it into directory "SceneX/".<br>
-  [2] Download the [engine.zip](https://pan.baidu.com/s/1XCukK4S6FArDXHzcf-uErQ)(pin: 0903, via BaiduDisk) and unpack it into directory "SceneX/".<br>
+  [1] Download the [Assets.zip](https://pan.baidu.com/s/1-XIBLQbUZVQHR5hZIN-gnQ)(pin: 0903, via BaiduDisk) and unpack it into directory "SceneX/".<br>
+  [2] Download the [engine.zip](https://pan.baidu.com/s/1Fyj9n7qKXGb4boGpksN6HA)(pin: 0903, via BaiduDisk) and unpack it into directory "SceneX/".<br>
 
 # Usage
 For attribute training: <br>
@@ -43,7 +43,7 @@ and run the script. Then the final output may be 329.24 (square of 18.1), which 
 The detailed attribute optimization order can be found in the paper.
 
 # SceneX to Cityscapes Adapted Images
-Can be downloaded via the following link: [ssd2city](https://pan.baidu.com/s/1km9mC6RThTWb3QJTcKHg8Q)(pin: 0903, via BaiduDisk).
+Can be downloaded via the following link: [ssd2city](https://pan.baidu.com/s/1eduUwlVmDy3ba5V-hqxiaA)(pin: 0903, via BaiduDisk).
 
 If you find this code useful for your research, please kindly cite our paper.<br>
 
